@@ -1,14 +1,1 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1>HYDERABAD</h1>
-<h2>Bachupally</h2>
-<h3>BVRIT</h3>
-<h4>IT</h4>
-<h5>A</h5>
-<h6>Ashitha</h6>
-
-</body>
-</html>
 
